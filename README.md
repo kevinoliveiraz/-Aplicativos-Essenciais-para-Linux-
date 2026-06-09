@@ -1,6 +1,6 @@
-# -Aplicativos-Essenciais-para-Linux-
 
-# Aplicativos Essenciais para Linux Mint
+
+# Aplicativos Essenciais para Linux 
 
 Uma lista dos programas que utilizo ou recomendo após uma instalação limpa do Linux Mint.
 
